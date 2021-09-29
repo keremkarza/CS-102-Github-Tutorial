@@ -1,2 +1,17 @@
  Kerem Karzaoğlu - 21901476 - https://github.com/keremkarza
+ 
+ Snake
+ 
+ commit 49356e7e0c71da8f3afd719008b6060c0aeefebf (HEAD -> main, origin/main, origin/HEAD)
+Author: keremkarza <kkarzaoglu@gmail.com>
+Date:   Wed Sep 29 23:23:06 2021 +0300
+
+    Kerem Karzaoğlu updated info.txt
+
+commit 28ac9828a0571bb2a71bb250edc2e2974212504a
+Author: keremkarza <kkarzaoglu@gmail.com>
+Date:   Wed Sep 29 22:52:12 2021 +0300
+
+    Kerem Karzaoğlu updated info.txt
+:
 
